@@ -1,0 +1,26 @@
+{
+  "name": "tiret",
+  "version": "1.0.0",
+  "description": "h",
+  "main": "efrefre/npm/kk.js",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orsoxii/----------------------------------------------------------------------------------------------------.git"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "up",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orsoxii/----------------------------------------------------------------------------------------------------/issues"
+  },
+  "homepage": "https://github.com/orsoxii/----------------------------------------------------------------------------------------------------#readme"
+}
